@@ -1,92 +1,84 @@
 # Rock–Paper–Scissors Game 🎮
 
 ## 📌 About the Project
-This project is my **first practical project** in the **fifth course** of  
-**Roadmap Dr. Mohammed Abu-Hadhoud**.
+This repository contains my **first beginner-level C++ project** completed as part of  
+the **Algorithms & Problem-Solving – Level 2** course in the  
+**Roadmap by Dr. Mohammed Abu-Hadhoud**.
 
 - **Course Name:** Algorithms & Problem-Solving – Level 2  
+- **Instructor:** Dr. Mohammed Abu-Hadhoud  
 - **Project Type:** Console Application  
 - **Language:** C++  
-- **Platform:** Windows (Console)
+- **Platform:** Windows Console
 
-The goal of this project is to apply problem-solving concepts and strengthen my understanding of:
-- Program design
-- Game logic
-- Functions and enums
-- Input validation
-- Clean and readable code structure
+This project was created to practice basic programming concepts including enums, functions, control flow, and game logic.
 
 ---
 
 ## 🎯 Project Description
-This is a simple console-based **Rock–Paper–Scissors** game where:
-- The player plays against the computer
-- The computer choice is generated randomly
-- The game runs for a user-defined number of rounds
-- Final results are displayed at the end of the game
+A simple console-based **Rock–Paper–Scissors** game where:
+- The **player** plays against the **computer**
+- The **computer choice is generated randomly**
+- The user chooses how many rounds to play
+- Final results (wins, losses, draws) are shown at the end
+- The user can choose to play again
 
 ---
 
 ## 🧠 Concepts Used
-This project focuses on applying the following concepts:
-
-- `enum` for defining game actions and results
-- Functions to separate logic and responsibilities
-- Input validation using loops
+This project demonstrates:
+- Use of `enum` types to define game choices and results
+- Functions for modular code design
+- Input validation with loops
 - Random number generation
-- Game loop and score tracking
-- Clean and modular code structure
+- Game loops and score tracking
+- Clean and readable structure
 
 ---
 
-## 🕹️ How the Game Works
-1. The user selects the number of rounds
-2. In each round:
-   - The player chooses (Rock / Paper / Scissors)
-   - The computer randomly selects its choice
-   - The winner of the round is determined
-3. After all rounds:
-   - Total wins, losses, and draws are displayed
-   - The final game result is shown
-4. The user can choose to play again or exit
+## 🕹️ How to Play
+1. Clone or download the repository  
+2. Compile the C++ code with any compiler (e.g., Visual Studio)  
+3. Run the game executable  
+4. Enter how many rounds you want to play  
+5. Choose Rock (1), Paper (2), or Scissors (3) each round  
+6. See the final results at the end  
 
 ---
 
 ## 🛠️ Technologies Used
 - **Language:** C++
-- **IDE:** Visual Studio
-- **Compiler:** MSVC
-- **Environment:** Console Application
+- **IDE:** Visual Studio (recommended)
+- **Compiler:** MSVC or any C++ compiler
+- **Environment:** Console application
 
 ---
 
-## 📈 Learning Outcome
-Through this project, I practiced:
-- Breaking down a problem into smaller functions
-- Writing readable and maintainable C++ code
-- Using enums to improve code clarity
-- Handling user input correctly
-- Implementing basic game logic
+## 📈 What I Learned
+During this project, I practiced:
+- Breaking problems down into functions
+- Using enums for cleaner code
+- Handling user input safely
+- Implementing simple game logic
+- Writing clean and maintainable code
 
-This project represents an important step in my learning journey and serves as a foundation for more advanced projects in upcoming courses.
+This project laid the foundation for more advanced projects later in the roadmap.
 
 ---
 
 ## 🚀 Future Improvements
-Possible enhancements for future versions:
-- Refactoring the game using `struct`
-- Improving separation between logic and UI
+Potential future updates include:
 - Adding difficulty levels
-- Enhancing error handling
-- Making the game cross-platform
+- Refactoring game logic into classes/structs
+- Separating logic from UI
+- Improving input validation
+- Making it cross-platform
 
 ---
 
 ## 👨‍💻 Author
 **Ziad Behairy**  
 Computer Science Student  
-Learning through *Roadmap Dr. Mohammed Abu-Hadhoud*
+Learning through *Roadmap – Dr. Mohammed Abu-Hadhoud*
 
----
-
-⭐ *This is my first project in Algorithms & Problem-Solving – Level 2, and more advanced projects are coming soon.*
+⭐ *This is my first project in Algorithms & Problem-Solving – Level 2.*  
